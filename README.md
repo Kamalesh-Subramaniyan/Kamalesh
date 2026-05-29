@@ -45,6 +45,9 @@
 - GitHub
 
 ---
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,selenium,mysql,git,github,maven,jenkins,postman" />
+</p>
 
 ## 📂 Projects
 
