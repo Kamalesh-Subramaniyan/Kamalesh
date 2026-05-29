@@ -41,5 +41,5 @@ Passionate about software quality, automation frameworks, and building reliable 
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/kamalesh-subramaniyan/
+- LinkedIn: www.linkedin.com/in/kamalesh-subramaniyan/
 - Email: kamaleshsubramaniyann@gmail.com
