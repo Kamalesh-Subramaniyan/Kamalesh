@@ -1,75 +1,41 @@
 <h1 align="center">Hi 👋, I'm Kamalesh</h1>
-<h3 align="center">QA Engineer | Manual Testing | Automation Testing | Selenium | SQL</h3>
+<h3 align="center">QA Engineer | Automation Testing | Selenium | Java | SQL</h3>
 
----
-
-## 👨‍💻 About Me
-
-- 🎯 Aspiring QA Engineer focused on delivering high-quality software
-- 🔍 Skilled in Manual Testing and Selenium Automation Testing
-- 🧪 Experienced in Functional Testing, Regression Testing, API Testing, and Defect Reporting
-- 🌱 Currently learning Playwright Automation Testing
-- ⚡ Strong interest in software quality and test automation frameworks
-
----
-
-## 🛠 Skills & Tools
-
-### Testing
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Test Case Design
-- Defect Reporting
-- API Testing
-
-### Automation
-- Selenium WebDriver
-- TestNG
-- Page Object Model (POM)
-- Cucumber
-- Data-Driven Testing
-
-### Programming & Database
-- Java
-- SQL
-- MySQL
-
-### Tools
-- Postman
-- Maven
-- Git
-- Jenkins
-- JMeter
-- Chrome DevTools
-- GitHub
-
----
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,selenium,mysql,git,github,maven,jenkins,postman" />
+<p align="center">
+Passionate about software quality, automation frameworks, and building reliable testing solutions.
 </p>
 
-## 📂 Projects
+---
 
-### 🛒 E-commerce Test Automation Framework
-- Developed Selenium + Java automation framework using TestNG and Maven
-- Implemented Page Object Model (POM)
-- Automated Login → Add to Cart → Checkout workflow
-- Used DataProvider and Explicit Waits
+## 🚀 About Me
 
-### 🔐 SauceDemo Testing Project
-- Performed Manual Functional and Regression Testing
-- Automated Login functionality using Selenium
-- Validated APIs using Postman
-- Created detailed defect reports
+- 🔍 Focused on Manual & Automation Testing
+- 🧪 Skilled in Selenium WebDriver, TestNG, and API Testing
+- ⚡ Interested in scalable automation frameworks and QA practices
+- 🌱 Currently learning Playwright Automation
+- 💡 Exploring modern testing tools and workflows
 
 ---
 
-## 📜 Certifications
+## 🛠 Tech Stack
 
-- Selenium WebDriver with Java – Rahul Shetty Academy
-- Data Structures – Coursera
-- Webinar Host – Youth United Council of India
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,selenium,mysql,git,github,maven,jenkins,postman" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Automation Framework
+- Selenium + Java framework using TestNG & Maven
+- Implemented Page Object Model (POM)
+- Automated end-to-end user workflows
+
+### 🔐 SauceDemo Testing
+- Functional & Regression Testing
+- API validation using Postman
+- Automated Login testing using Selenium
 
 ---
 
