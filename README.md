@@ -12,7 +12,6 @@ Passionate about software quality, automation frameworks, and building reliable 
 - 🔍 Focused on Manual & Automation Testing
 - 🧪 Skilled in Selenium WebDriver, TestNG, and API Testing
 - ⚡ Interested in scalable automation frameworks and QA practices
-- 🌱 Currently learning Playwright Automation
 - 💡 Exploring modern testing tools and workflows
 
 ---
